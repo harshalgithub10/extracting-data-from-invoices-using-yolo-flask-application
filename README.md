@@ -120,4 +120,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ```
 
-Make sure to update the GitHub repository URL (`https://github.com/your-username/your-repository.git`) with your actual repository URL. Additionally, ensure all file paths and configurations are correctly set up in your project.
+Make sure to update the GitHub repository URL (`https://github.com/harshalgithub10/extracting-data-from-invoices-using-yolo-flask-application`) with your actual repository URL. Additionally, ensure all file paths and configurations are correctly set up in your project.
